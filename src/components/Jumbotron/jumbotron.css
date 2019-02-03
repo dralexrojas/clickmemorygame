@@ -1,0 +1,25 @@
+.header{
+	background-image: url(../../images/banner.jpg);
+	position: relative;
+	width: 100%;
+}
+
+.bgimage{
+	object-fit: cover;
+}
+
+h1{
+	text-align: center;
+	font-size: 90px;
+	font-weight: bold;
+	padding: 80px 0 20px 0;
+	color: #b30000; 
+}
+
+h2{
+	text-align: center;
+	font-size: 20px;
+	padding-bottom: 40px;
+	color: #b30000;
+	font-weight: bold;
+}
