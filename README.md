@@ -18,4 +18,4 @@ This is a memory game with React.
 
 - - -
 ## Demo
-You can play the game here: 
+You can play the game here: http://www.alexrojas.org/clickmemorygame/
